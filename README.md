@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The best welcome bot
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Welcome new members
+* send greeting messages
+* Assists new users
 
 ## Getting started
 
