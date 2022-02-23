@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+On behalf of the whole department, welcome onboard!
+Your skills and talents will be a great addition to our project.
